@@ -1,0 +1,54 @@
+#navigation
+{
+	width:100%;
+}
+#links
+{
+	float:left;
+}
+#donation
+{
+	float:right;
+}
+#topAd
+{
+	float:right;
+}
+#statsTable
+{
+	float:left;
+}
+#tableLegend
+{
+	padding-top:6px;
+	padding-bottom:6px;
+	width:800px;
+}
+#adsPanel
+{
+	float:right;
+	width:170px;
+}
+#trashPage
+{
+	width:100%;
+	height:100%;
+}
+#trashAdsSidebar
+{
+	vertical-align:top;
+	height:100%;
+}
+#trashFrame
+{
+	vertical-align:top;
+	width:100%;
+	height:100%;
+}
+img.scheduleImg
+{
+	background-image: url(NHL.gif);
+    width:16px;
+    height:16px;
+	vertical-align: top;
+}
